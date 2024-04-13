@@ -19,4 +19,4 @@
 + Power_of_Exodia
 
 + Unitbase_of_exoia
-+ ### [nhk2024]()
++ ### [nhk2024](https://github.com/shinchiryota/Circuit/blob/main/2024/README.md)
