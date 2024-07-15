@@ -2,9 +2,9 @@
 2022以降の回路をまとめる
 
 ## [諸注意](諸注意)
-+ [使用するソフトウェア]()
-+ [ファイル構成]()
-+ [命名規則]()
++ [使用するソフトウェア](諸注意/使用するソフトウェア/readme.md)
++ [ファイル構成](諸注意/ファイル構成/readme.md)
++ [命名規則](諸注意/命名規則/readme.md)
 
 ## [2022](https://github.com/shinchiryota/Circuit/blob/main/2022/README.md)
 + servo_solenoidvalve_of_Tatebayashi
