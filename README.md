@@ -1,6 +1,11 @@
 # Circuit
 2022以降の回路をまとめる
 
+## [諸注意]()
++ [使用するソフトウェア]()
++ [ファイル構成]()
++ [命名規則]()
+
 ## [2022](https://github.com/shinchiryota/Circuit/blob/main/2022/README.md)
 + servo_solenoidvalve_of_Tatebayashi
 
